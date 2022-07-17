@@ -2,9 +2,9 @@
 
 namespace Haidarh\Example\Tests;
 
+use Haidarh\Example\ExampleServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Haidarh\Example\ExampleServiceProvider;
 
 class TestCase extends Orchestra
 {
